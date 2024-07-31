@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Angelinamathew/LeetCode/tree/master/0189-rotate-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Angelinamathew/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
