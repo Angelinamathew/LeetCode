@@ -45,4 +45,5 @@
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Angelinamathew/LeetCode/tree/master/0595-big-countries) |
+| [1877-find-followers-count](https://github.com/Angelinamathew/LeetCode/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
