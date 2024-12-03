@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Angelinamathew/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Angelinamathew/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Angelinamathew/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Angelinamathew/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Angelinamathew/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Angelinamathew/LeetCode/tree/master/0189-rotate-array) |
 ## Database
 |  |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Angelinamathew/LeetCode/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Angelinamathew/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
