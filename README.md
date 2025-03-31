@@ -29,12 +29,14 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Angelinamathew/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Angelinamathew/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Angelinamathew/LeetCode/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Angelinamathew/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Angelinamathew/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Angelinamathew/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Angelinamathew/LeetCode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0058-length-of-last-word](https://github.com/Angelinamathew/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Angelinamathew/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Angelinamathew/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Angelinamathew/LeetCode/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
