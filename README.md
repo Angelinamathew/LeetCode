@@ -60,6 +60,7 @@
 | [0584-find-customer-referee](https://github.com/Angelinamathew/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Angelinamathew/LeetCode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Angelinamathew/LeetCode/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/Angelinamathew/LeetCode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Angelinamathew/LeetCode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Angelinamathew/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Dynamic Programming
